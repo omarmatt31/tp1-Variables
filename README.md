@@ -16,5 +16,7 @@ Aquí practicarás practiqué los conceptos básicos de variables con `let` y `c
    ```bash
    git clone https://github.com/omarmatt31/tp1-Variables.git
    ```  
-2. **Abre los archivos** en tu visual studio y ejecutalos.  
+2. **Abre los archivos** en tu visual studio y ejecutalos.
+
+Omar Mattos
   
